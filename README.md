@@ -20,6 +20,7 @@ Executing the program
 |   Program           | Links                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Program to Calculate Income Tax | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/find_tax.c |
+| Program to simple_calcluator | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/simple_calcluator.c |
 
 
 
