@@ -22,6 +22,9 @@ Executing the program
 | Program to Calculate Income Tax | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/find_tax.c |
 | Program to simple_calcluator | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/simple_calcluator.c |
 | Program to check whether a given number is prime or not. | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/prime_or_notprime.c |
+| Program to Calculate simple intrest | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/Calculate_simple_intrest.c |
+| Program to Factorial | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/Factorial.c |
+| Program to Fibonacci | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/fibonacci.c |
 
 
 
