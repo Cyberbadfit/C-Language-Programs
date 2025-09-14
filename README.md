@@ -25,6 +25,7 @@ Executing the program
 | Program to Calculate simple intrest | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/Calculate_simple_intrest.c |
 | Program to Factorial | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/Factorial.c |
 | Program to Fibonacci | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/fibonacci.c |
+| Program to simple_digital_clock | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/simple_digital_clock.c |
 
 
 
