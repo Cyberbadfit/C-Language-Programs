@@ -31,13 +31,13 @@ You can add, edit, delete, search, and view students — each with their persona
 
 ### 🔧 On Windows
 ```bash
-gcc new1.c -o sms
+gcc Student_Management_System.c -o sms
 sms.exe
 ```
 
 ### 🐧 On Linux / macOS
 ```bash
-gcc new1.c -o sms
+gcc Student_Management_System.c -o sms
 ./sms
 ```
 
@@ -54,7 +54,7 @@ sudo dnf install gcc               # Fedora
 ```
 📁 Student-Management-System
 │
-├── new1.c             # Main program file
+├── Student_Management_System.c             # Main program file
 ├── README.md          # Project documentation
 └── LICENSE            # (optional)
 ```
