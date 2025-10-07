@@ -28,6 +28,14 @@ Executing the program
 | Program to simple_digital_clock | https://github.com/Cyberbadfit/C-Language-Programs/blob/main/simple_digital_clock.c |
 
 
+##  PROJECTS LIST
+
+|   project           | Links                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Project to Student Management System Using C | https://github.com/Cyberbadfit/C-Language-Programs/tree/main/Student%20Management%20System%20Using%20C |
+
+
+
 
 ## About Me
 - 📫 How to reach me **cyberbadfit@gmail.com**
