@@ -37,7 +37,8 @@ Programming in C, low-level system concepts, problem solving, open source, and b
 
 |   project           | Links                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Project to Student Management System Using C | https://github.com/Cyberbadfit/C-Language-Programs/tree/main/Student%20Management%20System%20Using%20C |
+| Student Management System  | https://github.com/Cyberbadfit/C-Language-Programs/tree/main/Student%20Management%20System%20Using%20C |
+| Hospital Management System | https://github.com/Cyberbadfit/C-Language-Programs/tree/main/Hospital%20Management%20System |
 
 
 
